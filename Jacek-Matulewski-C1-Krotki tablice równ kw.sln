@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32901.82
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Jacek-Matulewski-C1-Krotki tablice równ kw", "Jacek-Matulewski-C1-Wprowadzenie\Jacek-Matulewski-C1-Krotki tablice równ kw.csproj", "{1CD46CB9-6BA9-4925-B5A6-DBDF159582D9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1CD46CB9-6BA9-4925-B5A6-DBDF159582D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CD46CB9-6BA9-4925-B5A6-DBDF159582D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CD46CB9-6BA9-4925-B5A6-DBDF159582D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CD46CB9-6BA9-4925-B5A6-DBDF159582D9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C1B9B14E-E830-4731-A01D-D33787A143EA}
+	EndGlobalSection
+EndGlobal
